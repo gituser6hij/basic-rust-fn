@@ -1,8 +1,17 @@
 # basic-rust-fn
 
-**on linux**
-./test
-./test2
-./test3
+  
 
-rustc for compile
+## On linux
+
+    ./test
+    
+    ./test2
+    
+    ./test3
+
+  
+**edit** `nano test.rs`
+**run** `rustc test.rs`
+**run** `./test`
+`rustc` **for compile**
